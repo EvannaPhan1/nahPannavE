@@ -1,0 +1,134 @@
+
+
+h1 {
+	font-family: BauhausMedium;
+
+}
+
+h5{
+	font-family: 'Black Ops One', cursive;
+	font-size: 300px;
+}
+.borscht{
+	font-family: 'Akronim', cursive;
+	font-size:250px;
+}
+h6{
+	font-family: 'Amatic SC', cursive;
+	text-align:center;
+	font-size: 65px;
+}
+#h6{
+	font-size:800px;
+	font-family: 'Tangerine', cursive;
+	position:absolute;
+	padding-top:350px;
+}
+#pushbottom{
+	padding-bottom: 700px;
+	position:absolute;
+	text-align: center;
+}
+
+.stepbystep{
+	text-align: right;
+	font-stretch: all;
+	font-style: 30px;
+}
+
+li{
+	height:500px;
+	width:500px;
+	position:absolute;
+	padding-left: 220px;
+
+}
+
+ul{
+	height:1000px;
+
+}
+
+#title{
+	height:300px;
+	width:1450px;
+	padding:300px;
+	position:relative;
+}
+
+#ingredients{
+position: absolute;
+border-left :300px;
+}
+
+.body{
+	float: right;
+	height:300px;
+	width:300px;
+	margin: 100px;
+}
+
+.steps{
+	position:absolute;
+	bottom:300px;
+}
+
+.materials{
+	position: absolute;
+	right:500px;
+
+}
+.button{
+	height:350px;
+	width:1450px;
+	font-family: 'Black Ops One', cursive;
+	font-size: 175px;
+
+}
+
+.Recipe {
+	font-size: 40px;
+  background-color: #FF8B94;
+  padding: 60px;
+  display: none;
+	font-family: 'Unica One', cursive;
+
+}
+
+.Recipe2 {
+	font-size: 40px;
+  background-color: #FFAAA5;
+  padding: 120px;
+  display: none;
+  font-family: 'Unica One', cursive;
+
+}
+.Recipe3 {
+	font-size: 40px;
+  background-color: #FFD3B6;
+  padding: 180px;
+  display: none;
+  font-family: 'Unica One', cursive;
+
+}
+.Recipe4 {
+	font-size: 40px;
+  background-color: #DCEDC1;
+  padding: 240px;
+  display: none;
+  font-family: 'Unica One', cursive;
+
+}
+.Recipe5 {
+	font-size: 40px;
+  background-color: #A8E6CF;
+  padding: 300px;
+  display: none;
+  font-family: 'Unica One', cursive;
+
+}
+  
+span:hover + div {
+  display: block;
+
+
