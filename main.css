@@ -18,6 +18,12 @@ h6{
 	text-align:center;
 	font-size: 65px;
 }
+
+#heading{
+	font-size: 60px;
+	font-style: initial;
+	
+}
 #h6{
 	font-size:800px;
 	font-family: 'Tangerine', cursive;
